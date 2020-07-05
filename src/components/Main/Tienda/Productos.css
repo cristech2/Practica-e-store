@@ -1,0 +1,7 @@
+.productos {
+    max-width: 50%;
+    min-width: 25%;
+}
+.img-producto{
+    border-radius: 1rem;
+}
